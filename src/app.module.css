@@ -1,0 +1,12 @@
+.container {
+  height: 100vh;
+  background-color: var(--gray600);
+}
+
+.main {
+  width: 736px;
+  margin: 0 auto;
+
+  margin-top: -27px;
+}
+
